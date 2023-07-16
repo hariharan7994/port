@@ -94,7 +94,7 @@ section{
 }
 
 .home-img img{
-    width: 65%;
+    width: 60%;
     height:117%;
     object-fit: contain;
 
@@ -335,16 +335,5 @@ font-size: 117%;
     .social i{
         display: list-item;
     }
+    
 }
-@media(max-width:400px){
-.home .home-text h1{
-    font-size: 40px;
-}
-.home .home-text span{
-    margin-left: 59px;
-}
-.social i{
-    display: inline;
-}
-}
-
